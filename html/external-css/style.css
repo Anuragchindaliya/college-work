@@ -1,0 +1,18 @@
+
+*{
+    margin: 0;
+}
+html{
+    font-family: sans-serif;
+}
+.heading{
+    
+    background-color:#000;
+    color: #fff;
+    padding: 1em;
+}
+.container{
+    background-color: rgb(224, 222, 222);
+    height: 500px;
+    padding: 1em;
+}
